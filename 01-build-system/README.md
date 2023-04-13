@@ -17,7 +17,7 @@ You are given the following file structure:
                 `-- values.c
 ```
 
-You are asked to create a `Makefile` that will be used to build everything into an executable file.
+Your task is to create a `Makefile` that will be used to build everything into an executable file.
 After everything is done, if you run the executable you will find a flag:
 
 ```console
@@ -26,7 +26,7 @@ $ ./main
 USoC{...}
 ```
 
-Copy that flag and paste it in the [registration form](TODO), along with the `Makefile` you created.
+Copy that flag and paste it in the [registration form](TODO), then create an archive with all the files (`Makefile` and other helper files) that are required to build the given sources.
 
 ## Resources
 
